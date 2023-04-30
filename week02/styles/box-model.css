@@ -1,0 +1,28 @@
+.callout {
+    position: left;
+  }
+  
+  .callout blockquote {
+    margin: 0;
+    padding: 1em;
+    background: #333;
+    color: #fff;
+    text-align: left;
+  }
+  
+  .callout img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 150px;
+  }
+  
+  .callout cite {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0.5em;
+    background: #333;
+    color: #fff;
+  }
+  
